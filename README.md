@@ -16,7 +16,7 @@
 
 💬 Pregúntame sobre **desarrollo web, aplicaciones móviles, IoT y sistemas inteligentes**
 
-📫 Cómo contactarme: **jaimeisaac624murillo@gmail.com**
+📫 Cómo contactarme: **jaimeisaac624@gmail.com**
 
 ⚡ Dato curioso: **Me apasiona crear sistemas inteligentes que conecten tecnología con el mundo real**
 
