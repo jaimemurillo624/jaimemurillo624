@@ -1,6 +1,6 @@
 # Hola 👋, Soy Jaime Murillo
 
-### Ingeniero en Sistemas | Desarrollador de Software | IoT & Cloud Enthusiast
+### Ingeniero en TI | Desarrollador de Software | IoT & Cloud Enthusiast
 
 ![Ingeniero TI trabajando](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
